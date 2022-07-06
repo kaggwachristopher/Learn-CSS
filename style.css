@@ -1,0 +1,16 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px;
+}
+.nav-links a{
+    text-decoration: none;
+    color: aqua;
+}
