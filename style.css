@@ -3,7 +3,7 @@ html,body{
     padding: 0;
 }
 .nav{
-    background-color: black;
+    background-color: rgb(235, 8, 8);
     color: white;
     display: flex;
     align-items: center;
